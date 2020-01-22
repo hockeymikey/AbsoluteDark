@@ -1,0 +1,19 @@
+{    "theme": {
+		"images": {
+			"theme_frame": "background.png"
+		},
+        "colors": {
+			"frame": "#0d0d0d",
+			"tab_background_text": "#ffffff",
+            "tab_selected": "#3c3f47",
+            "toolbar": "#3c3f47",
+            "tab_line": "#5a86b6",
+            "ntp_background": "#3c3f47",
+            "ntp_text": "#d8d9da",
+			"bookmark_text": "red",
+            "toolbar_field": "#ffffff",
+            "toolbar_field_text": "#ffffff",
+            "toolbar_field_text_focus": "#f8f8f8",
+            "toolbar_field_focus": "#4a4d54"
+        }
+    },"name":"AbsoluteDark","manifest_version":2,"version":"0.1","description":"A classic dark theme built for Android in mind."}
